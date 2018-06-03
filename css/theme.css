@@ -1,0 +1,195 @@
+@media print {
+  .btn-konsul, .btnhasil {
+    display: none;
+  }
+
+
+}
+
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.navbar-header.navbar-custom {
+    background-color: #000000;
+}
+.list-group-mine .list-group-item {
+  background-color: #f1f9fb; 
+}
+.list-group-mine .list-group-item:hover {
+  background-color: #d3e7e8;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #000000;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+.btn-abs { 
+  color: #F3F5E7; 
+  background-color: #822EB3; 
+  border-color: #130269; 
+} 
+ 
+.btn-abs:hover, 
+.btn-abs:focus, 
+.btn-abs:active, 
+.btn-abs.active, 
+.open .dropdown-toggle.btn-abs { 
+  color: #F3F5E7; 
+  background-color: #5B17B3; 
+  border-color: #130269; 
+} 
+ 
+.btn-abs:active, 
+.btn-abs.active, 
+.open .dropdown-toggle.btn-abs { 
+  background-image: none; 
+} 
+ 
+.btn-abs.disabled, 
+.btn-abs[disabled], 
+fieldset[disabled] .btn-abs, 
+.btn-abs.disabled:hover, 
+.btn-abs[disabled]:hover, 
+fieldset[disabled] .btn-abs:hover, 
+.btn-abs.disabled:focus, 
+.btn-abs[disabled]:focus, 
+fieldset[disabled] .btn-abs:focus, 
+.btn-abs.disabled:active, 
+.btn-abs[disabled]:active, 
+fieldset[disabled] .btn-abs:active, 
+.btn-abs.disabled.active, 
+.btn-abs[disabled].active, 
+fieldset[disabled] .btn-abs.active { 
+  background-color: #822EB3; 
+  border-color: #130269; 
+} 
+ 
+.btn-abs .badge { 
+  color: #822EB3; 
+  background-color: #F3F5E7; 
+}
+  background-color: #e08f2a;
+}
+.btn-konsul { 
+  color: #ffffff; 
+  background-color: #611BBD; 
+  border-color: #130269; 
+} 
+ 
+.btn-konsul:hover, 
+.btn-konsul:focus, 
+.btn-konsul:active, 
+.btn-konsul.active, 
+.open .dropdown-toggle.btn-konsul { 
+  color: #ffffff; 
+  background-color: #611BBD; 
+  border-color: #130269; 
+} 
+ 
+.btn-konsul:active, 
+.btn-konsul.active, 
+.open .dropdown-toggle.btn-konsul { 
+  background-image: none; 
+} 
+ 
+.btn-konsul.disabled, 
+.btn-konsul[disabled], 
+fieldset[disabled] .btn-konsul, 
+.btn-konsul.disabled:hover, 
+.btn-konsul[disabled]:hover, 
+fieldset[disabled] .btn-konsul:hover, 
+.btn-konsul.disabled:focus, 
+.btn-konsul[disabled]:focus, 
+fieldset[disabled] .btn-konsul:focus, 
+.btn-konsul.disabled:active, 
+.btn-konsul[disabled]:active, 
+fieldset[disabled] .btn-konsul:active, 
+.btn-konsul.disabled.active, 
+.btn-konsul[disabled].active, 
+fieldset[disabled] .btn-konsul.active { 
+  background-color: #611BBD; 
+  border-color: #130269; 
+} 
+ 
+.btn-konsul .badge { 
+  color: #611BBD; 
+  background-color: #ffffff; 
+}
+.btn-mulai { 
+  color: #ffffff; 
+  background-color: #611BBD; 
+  border-color: #130269; 
+} 
+ 
+.btn-mulai:hover, 
+.btn-mulai:focus, 
+.btn-mulai:active, 
+.btn-mulai.active, 
+.open .dropdown-toggle.btn-mulai { 
+  color: #ffffff; 
+  background-color: #611BBD; 
+  border-color: #130269; 
+} 
+ 
+.btn-mulai:active, 
+.btn-mulai.active, 
+.open .dropdown-toggle.btn-mulai { 
+  background-image: none; 
+} 
+ 
+.btn-mulai.disabled, 
+.btn-mulai[disabled], 
+fieldset[disabled] .btn-mulai, 
+.btn-mulai.disabled:hover, 
+.btn-mulai[disabled]:hover, 
+fieldset[disabled] .btn-mulai:hover, 
+.btn-mulai.disabled:focus, 
+.btn-mulai[disabled]:focus, 
+fieldset[disabled] .btn-mulai:focus, 
+.btn-mulai.disabled:active, 
+.btn-mulai[disabled]:active, 
+fieldset[disabled] .btn-mulai:active, 
+.btn-mulai.disabled.active, 
+.btn-mulai[disabled].active, 
+fieldset[disabled] .btn-mulai.active { 
+  background-color: #611BBD; 
+  border-color: #130269; 
+} 
+ 
+.btn-mulai .badge { 
+  color: #611BBD; 
+  background-color: #ffffff; 
+}
+.panel-default > .panel-heading-custom {
+    background: #DE4BA6; color: #FFFFFF;
+}
